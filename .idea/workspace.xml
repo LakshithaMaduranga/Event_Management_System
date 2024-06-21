@@ -4,36 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ff70caf-3dd3-4a30-bfe5-8ec30823ce85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Best_Events.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/AssociateFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/BirthdayFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/ClientsFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/EmployeeFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/EventFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/GraduationFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/GuestFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/LoginFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/MainPageFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/RegistrationFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/SupplierFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/ThemedPartyFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/WeddingFormController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/style_form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/LoginForm.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/MainPageForm.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/RegistrationForm.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/birthdayForm.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/graduationForm.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/themedPartyForm.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/view/weddingForm.fxml" afterDir="false" />
+    <list default="true" id="0ff70caf-3dd3-4a30-bfe5-8ec30823ce85" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/RegistrationFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/RegistrationFormController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707821623218</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1718997453471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718997453471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

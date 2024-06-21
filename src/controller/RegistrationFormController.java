@@ -38,10 +38,13 @@ public class RegistrationFormController {
     }
 
     public void btnBackOnAction(ActionEvent actionEvent) throws IOException {
-        Parent parent= FXMLLoader.load(this.getClass().getResource("../view/LoginForm.fxml"));
-        Scene scene= new Scene(parent);
-   Stage primaryStage =  (Stage)root.getScene().getWindow();
+//        Parent parent= FXMLLoader.load(this.getClass().getResource("../view/LoginForm.fxml"));
+//        Scene scene= new Scene(parent);
+//   Stage primaryStage =  (Stage)root.getScene().getWindow();
 
 
+    }
+
+    public void btnOnActionClose(ActionEvent actionEvent) {
     }
 }
