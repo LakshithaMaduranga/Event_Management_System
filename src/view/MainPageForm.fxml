@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SplitMenuButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="650.0" prefWidth="1330.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MainPageFormController">
+   <children>
+      <BorderPane layoutX="-1.0" prefHeight="650.0" prefWidth="1336.0">
+         <left>
+            <VBox prefHeight="607.0" prefWidth="211.0" style="-fx-background-color: #333CFF;" BorderPane.alignment="CENTER">
+               <children>
+                  <Button mnemonicParsing="false" prefHeight="31.0" prefWidth="177.0">
+                     <VBox.margin>
+                        <Insets bottom="50.0" left="10.0" top="100.0" />
+                     </VBox.margin>
+                  </Button>
+                  <SplitMenuButton mnemonicParsing="false" prefHeight="31.0" prefWidth="177.0" text="Events">
+                    <items>
+                      <MenuItem mnemonicParsing="false" text="Weddings" />
+                      <MenuItem mnemonicParsing="false" text="Birthdays" />
+                        <MenuItem mnemonicParsing="false" text="Themed Party" />
+                        <MenuItem mnemonicParsing="false" text="Graduations" />
+                    </items>
+                     <VBox.margin>
+                        <Insets bottom="50.0" left="10.0" top="10.0" />
+                     </VBox.margin>
+                  </SplitMenuButton>
+                  <Button mnemonicParsing="false" prefHeight="39.0" prefWidth="177.0" text="Associaters" textOverrun="CLIP">
+                     <VBox.margin>
+                        <Insets left="10.0" top="10.0" />
+                     </VBox.margin>
+                     <padding>
+                        <Insets left="10.0" top="10.0" />
+                     </padding>
+                  </Button>
+               </children>
+            </VBox>
+         </left>
+      </BorderPane>
+      <AnchorPane layoutY="-4.0" prefHeight="57.0" prefWidth="1345.0" style="-fx-background-color: #E0E0E0;" />
+      <AnchorPane layoutX="245.0" layoutY="93.0" prefHeight="539.0" prefWidth="1053.0" style="-fx-background-color: #E0E0E0; -fx-background-radius: 15 px;" />
+   </children>
+</AnchorPane>
